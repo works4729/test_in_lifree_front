@@ -20,6 +20,7 @@
 export default {
   data () {
     return {
+      subTitle: 'RailsからAPIを取得する',
       msgs: []
     }
   },
