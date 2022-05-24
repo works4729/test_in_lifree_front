@@ -8,4 +8,4 @@ build:
     WORKDIR: app
     API_URL: "https://test-in-lifree-api.herokuapp.com"
 run:
-  web: yarn run start
+  web: yarn run dev
